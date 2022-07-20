@@ -1,0 +1,38 @@
+#nextPage {
+    display: none;
+}
+
+#errorMessage {
+    display: none;
+}
+
+#main {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    font-family: "Papyrus";
+}
+
+#background {
+    max-width: 100%;
+}
+
+#selectionMessage {
+    display: none;
+}
+
+#main {
+    margin: auto;
+    width: 80%;
+    font-size: 15px;
+    text-align: center;
+    font-family: "Papyrus";
+    position: relative;
+}
+
+.story-content-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-53%, -45%);
+}
